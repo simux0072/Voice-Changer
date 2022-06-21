@@ -51,3 +51,46 @@ Voice Gender:
 The VoxCeleb dataset (7000+ unique speakers and utterances, 3683 males / 2312 females). The VoxCeleb is an audio-visual dataset consisting of short clips of human speech, extracted from interview videos uploaded to YouTube. VoxCeleb contains speech from speakers spanning a wide range of different ethnicities, accents, professions, and ages.
 ///
 https://dagshub.com/kingabzpro/voice_gender_detection
+
+LibriSpeech:
+///
+This dataset is a large-scale corpus of around 1000 hours of English speech. The data has been sourced from audio books from the LibriVox project and is 60 GB in size.
+///
+http://www.openslr.org/12/
+
+The Spoken Wikipedia Corpora:
+///
+This is a corpus of aligned spoken Wikipedia articles from the English, German, and Dutch Wikipedia. Hundreds of hours of aligned audio and annotations can be mapped back to the original HTML. The entire set is about 38 GB in size available in both audio and without audio format.
+///
+https://nats.gitlab.io/swc/
+
+TED-LIUM:
+///
+Audio transcription of TED talks. 1495 TED talks audio recordings along with full-text transcriptions of those recordings, created by Laboratoire d’Informatique de l’Université du Maine (LIUM).
+///
+http://www.openslr.org/51/
+
+Common Voice:
+///
+Common Voice (12 GB is size) is a corpus of speech data read by users on the Common Voice website, and based on text from a number of public domain sources like user-submitted blog posts, old books, movies, and other public speech corpora. Its primary purpose is to enable the training and testing of automatic speech recognition (ASR) systems.
+///
+https://www.kaggle.com/mozillaorg/common-voice/home
+
+2000 HUB5 English:
+///
+English-only speech data used most recently in the Deep Speech paper from Baidu.
+///
+https://catalog.ldc.upenn.edu/LDC2002T43
+
+TIMIT Corpus:
+///
+The TIMIT corpus (440 MB) of read speech is designed to provide speech data for acoustic-phonetic studies and for the development and evaluation of automatic speech recognition systems. TIMIT contains broadband recordings of 630 speakers of eight major dialects of American English, each reading ten phonetically rich sentences. It includes time-aligned orthographic, phonetic and word transcriptions as well as a 16-bit, 16 kHz speech waveform file for each utterance.
+///
+https://github.com/philipperemy/timit/blob/master/README.md
+
+Multimodal EmotionLines Dataset (MELD):
+///
+Multimodal EmotionLines Dataset (MELD) has been created by enhancing and extending EmotionLines dataset. MELD contains the same dialogue instances available in EmotionLines, but it also encompasses audio and visual modality along with text. MELD has more than 1400 dialogues and 13000 utterances from Friends TV series. Each utterance in a dialogue has been labeled with— Anger, Disgust, Sadness, Joy, Neutral, Surprise and Fear.
+///
+https://github.com/SenticNet/MELD
+
