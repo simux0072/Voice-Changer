@@ -1,0 +1,53 @@
+CREMA-D: Crowd-sourced Emotional Multimodal Actors:
+///
+CREMA-D is a dataset of 7,442 original clips from 91 actors. These clips were from 48 male and 43 female actors between the ages of 20 and 74 coming from various races and ethnicities (African America, Asian, Caucasian, Hispanic, and Unspecified). Actors spoke from a selection of 12 sentences. The sentences were presented using six different emotions (Anger, Disgust, Fear, Happy, Neutral, and Sad) and four different emotion levels (Low, Medium, High and Unspecified). Participants rated the emotion and emotion levels based on the combined audiovisual presentation, the video alone, and the audio alone. Due to the large number of ratings needed, this effort was crowd-sourced, and a total of 2443 participants each rated 90 unique clips, 30 audio, 30 visual, and 30 audio-visual.
+///
+https://dagshub.com/mert.bozkirr/CREMA-D
+
+Device and Produced Speech:
+///
+The DAPS (Device and Produced Speech) dataset is a collection of aligned versions of professionally produced studio speech recordings and recordings of the same speech on common consumer devices (tablet and smartphone) in real-world environments. It has 15 versions of audio (3 professional versions and 12 consumer device/real-world environment combinations). Each version consists of about 4 1/2 hours of data (about 14 minutes from each of 20 speakers).
+///
+https://dagshub.com/kinkusuma/daps-dataset
+
+Deeply Vocal Characterizer:
+///
+The latter is a human nonverbal vocal sound dataset consisting of 56.7 hours of short clips from 1419 speakers, crowdsourced by the general public in South Korea. Also, the dataset includes metadata such as age, sex, noise level, and quality of utterance. This repo holds only 723 utterances (ca. 1% of the whole corpus) and is free to use under CC BY-NC-ND 4.0. For accessing the complete dataset under a more restrictive license, please contact deeplyinc.
+///
+https://dagshub.com/L-theorist/Deeply_Nonverbal_Vocalization_Dataset
+
+EMOVO Corpus:
+///
+EMOVO Corpus database built from the voices of 6 actors who played 14 sentences simulating six emotional states (disgust, fear, anger, joy, surprise, sadness) plus the neutral state. These emotions are well-known found in most of the literature related to emotional speech. The recordings were made with professional equipment in the Fondazione Ugo Bordoni laboratories.
+///
+https://dagshub.com/kingabzpro/EMOVO
+
+Flickr 8k Audio Caption Corpus:
+///
+The Flickr 8k Audio Caption Corpus contains 40,000 spoken audio captions in .wav audio format, one for each caption included in the train, dev, and test splits in the original corpus. The audio is sampled at 16000 Hz with 16-bit depth and stored in Microsoft WAVE audio format.
+///
+https://dagshub.com/michizhou/Flickr-Audio-Caption-Corpus
+
+LJ Speech:
+///
+a public domain speech dataset consisting of 13,100 short audio clips of a single speaker reading passages from 7 non-fiction books. A transcription is provided for each clip. Clips vary in length from 1 to 10 seconds and have a total length of approximately 24 hours. The texts were published between 1884 and 1964 and are in the public domain. The audio was recorded in 2016–17 by the LibriVox project and is also in the public domain.
+///
+https://dagshub.com/kinkusuma/lj-speech-dataset
+
+Speech Commands Dataset:
+///
+The dataset (1.4 GB) has 65,000 one-second long utterances of 30 short words by thousands of different people, contributed by public members through the AIY website. This is a set of one-second .wav audio files, each containing a single spoken English word.
+///
+https://dagshub.com/kingabzpro/Speech_Commands_Dataset
+
+TESS: Toronto Emotional Speech Set:
+///
+The Northwestern University Auditory Test №6 was used to create these stimuli. Two actresses (aged 26 and 64 years) recited a set of 200 target words in the carrier phrase “Say the word _____,” and recordings were produced of the set depicting each of seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral). There are a total of 2800 stimuli.
+///
+https://dagshub.com/hazalkl/Toronto-emotional-speech-set-TESS
+
+Voice Gender:
+///
+The VoxCeleb dataset (7000+ unique speakers and utterances, 3683 males / 2312 females). The VoxCeleb is an audio-visual dataset consisting of short clips of human speech, extracted from interview videos uploaded to YouTube. VoxCeleb contains speech from speakers spanning a wide range of different ethnicities, accents, professions, and ages.
+///
+https://dagshub.com/kingabzpro/voice_gender_detection
